@@ -56,7 +56,7 @@ const GetInTouch = () => {
                 }
             }}
             >
-                get in touch
+                get in touch with us 
             </Button>
  
         </Stack>
